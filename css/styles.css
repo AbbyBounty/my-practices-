@@ -1,9 +1,36 @@
 *{
-    margin: 0;
+    margin: 2px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 
 h1{
     color: red;
+}
+
+
+/* div > p{
+    color: red;
+}
+
+
+div + p{
+    color: red;
+} */
+
+div ~ p{
+    color: red;
+}
+
+span:hover{
+    color: yellowgreen;
+    cursor: pointer;
+}
+
+li:nth-child(odd){
+    color: blue;
+}
+
+input[type="text"]{
+    border: 2px solid palevioletred;
 }
