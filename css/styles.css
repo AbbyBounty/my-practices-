@@ -34,3 +34,7 @@ li:nth-child(odd){
 input[type="text"]{
     border: 2px solid palevioletred;
 }
+
+.article{
+    background-color: antiquewhite;
+}
