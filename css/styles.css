@@ -38,3 +38,27 @@ input[type="text"]{
 .article{
     background-color: antiquewhite;
 }
+
+
+.top-header{
+    border:2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+/* 
+case study
+--> e-commerce
+--> navbar
+--> cybage logo
+--> 3-4 html5 pages(landing page(index), product, registration, contact)
+--> index page --> welcome message , large contents
+--> product --> list of product
+--> registration --> 8-10 input control
+--> contact
+
+ 
+
+--> application has be to responsive
+--> html5 + css3 */
